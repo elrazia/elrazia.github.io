@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-###The Blog
+### The Blog
 
 I wanted to be a data scientist before I knew what a data scientist was.
 
