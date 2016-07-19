@@ -14,10 +14,10 @@ Now, Dr. Reed is a sociologist, so naturally I convinced myself that I needed to
 
 This blog where I talk about those projects.
 
-### More Information
+### The Author
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in New York City where I spend my time obsessing over College Basketball and reddit.com/Datsisbeautiful visualizations.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can find my email, LinkedIn and Github info at the bottom of this page!
