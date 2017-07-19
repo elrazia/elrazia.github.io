@@ -12,12 +12,12 @@ About 10 years ago, a discussion with a friend about the [Mason-Dixon line](http
 
 Now, Dr. Reed is a sociologist, so naturally I convinced myself that I needed to become a sociologist. Though that dream was short-lived, it led me to statistics, which in turn led me to data science. Today, I get to do the types of projects that piqued my interest all those many years ago.
 
-This blog where I talk about those projects.
+This blog is where I talk about those projects.
 
 ### The Author
 
-I live in New York City where I spend my time obsessing over College Basketball and reddit.com/Datsisbeautiful visualizations.
+I live in ~~New York City~~ (just moved to Chicago!) where I spend my time obsessing over College Basketball and reddit.com/Datsisbeautiful visualizations.
 
 ### Contact me
 
-You can find my email, LinkedIn and Github info at the bottom of this page!
+You can find my email, LinkedIn and GitHub info at the bottom of this page!
